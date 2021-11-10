@@ -9,7 +9,7 @@ permalink: /about/
 #### Las Vegas, Nevada
 
 
-I began my studies in an engineering program at Georgia State University's, Georgia Perimeter College in Atlanta, GA.  I later switched over to a Mathematics program.  During that time, I entered the business world on the phones.  First, answering customer service calls at an insurance company and later dialing out to small, medium, large enterprises with marketing communications for a vendor of database server technology and digitization solutions.  Speaking with smart people about their intentions with the products I was marketing became an inspiration to the world of working with data.  Since, I have served the banking, healthcare, technology, and insurance industries within the functions of strategic planning, analytics, and engineering.
+Phillip models operational outcomes as a function past observation. With this, we have a hypothetical model to understand how maintaining leading measurables at a certain level will help achieve predictable operational results. His experience is rooted in predictive modeling, prototyping of reporting tools and pre-implementation strategy experimentation on test-groups, but also reporting, business intelligence, and programming.
   
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
